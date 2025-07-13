@@ -1,4 +1,4 @@
-# Neetcode-150---Problem-3
+# Problem 217: Contains Duplicate
 
 7/12/2025
 
